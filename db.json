@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "NextJS",
+      "day": "Jul 1 at 19:02",
+      "remainder": true
+    },
+    {
+      "id": 2,
+      "text": "Firestore",
+      "day": "Jul 2  at 19:02",
+      "remainder": true
+    },
+    {
+      "text": "aa",
+      "day": "aaa",
+      "remainder": true,
+      "id": 3
+    },
+    {
+      "text": "SA",
+      "day": "ads",
+      "remainder": false,
+      "id": 4
+    }
+  ]
+}
